@@ -97,7 +97,8 @@
       "NoResultsEmptyState": {
         "noResults": "There is no result found",
         "description": "Try changing search category or your location",
-        "refresh": "Refresh"
+        "refresh": "Refresh",
+        "location": "Location"
       },
       "RankListScreen": {
         "whisperComments": "whisper comments",
